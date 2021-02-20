@@ -80,7 +80,7 @@ If you are concerned about security, you can install it on your own computer. If
 **Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/xzendercagebot) .
 
 ### What does Ai mean?
-[Asena](https://tr.wikipedia.org/wiki/Ai), comes From my Girlfriend's Named User Ai That Handles Many things as you know after use
+[NISA](https://tr.wikipedia.org/wiki/Ai), comes From my Girlfriend's Named User Ai That Handles Many things as you know after use
 
 ## NISA Features
 

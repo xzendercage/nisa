@@ -72,9 +72,9 @@
             "MUST_TEXT": "```Cavab mətn olmalıdır```"
         },
         "heroku": {
-            "RESTART_DESC": "WhatsAsena-nı yenidən başladın",
+            "RESTART_DESC": "NISA Ai-nı yenidən başladın",
             "RESTART_MSG": "```yenidən başladır ...```",
-            "SHUTDOWN_DESC": "WhatsAsena-nı söndürün",
+            "SHUTDOWN_DESC": "NISA Ai-nı söndürün",
             "SHUTDOWN_MSG": "```söndürmək ⛔```",
             "DYNO_DESC": "Heroku dyno istifadəsini yoxlayın",
             "DYNO_TOTAL": "```Ümumi kvota```",

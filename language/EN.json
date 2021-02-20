@@ -72,10 +72,10 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Restarting...```",
-            "SHUTDOWN_DESC": "Shutdown WhatsAsena",
-            "SHUTDOWN_MSG": "```Shutting down ⛔```",
+            "RESTART_DESC": "Restart NISA",
+            "RESTART_MSG": "```Restarting NISA Ai...```",
+            "SHUTDOWN_DESC": "Shutdown NISA",
+            "SHUTDOWN_MSG": "```Shutting down Now I'm Turning Off ⛔```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
             "DYNO_USED": "```Quota used```",
@@ -179,7 +179,7 @@
             "DOWNLOADING_SONG": "```Downloading your song...```",
             "UPLOADING_SONG": "```Uploading your song...```",
             "VIDEO_DESC": "Downloads video from YouTube.",
-            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
+            "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=xyz```",
             "DOWNLOADING_VIDEO": "```Downloading your video...```",
             "UPLOADING_VIDEO": "```Uploading your video...```",
             "YT_DESC": "It searchs on YouTube.",
@@ -355,7 +355,7 @@
         "deepai": {
             "DEEPAI_DESC": "Runs the most powerful artificial intelligence tools using artificial neural networks.",
             "TEXT": "*You must enter text! Although I am a powerful artificial intelligence, I cannot read your thoughts!*",
-            "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
+            "URL": "*You must enter the image URL!*\n*Example:* https://t.me/xzendercage"
         },
         "ttp": {
             "TTP_DESC": "Converts text to plain painting.",

@@ -3,43 +3,6 @@
 
 - [Xzender Cage](https://github.com/xzendercage)
 
-<p align="center">
-  <a href="https://github.com/xzendercage/nisa/fork">
-    <img src="https://img.shields.io/github/forks/xzendercage/nisa?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/xzendercage/nisa/stargazers">
-    <img src="https://img.shields.io/github/stars/xzendercage/nisa?style=social">
-  </a>
-  <a href="https://github.com/xzendercage/nisa/commits/master">
-    <img src="https://img.shields.io/github/commit-activity/m/xzendercage/nisa?style=social">
-  </a>
-</p>
-
-<p align="center">
-  <a href="httsp://github.com/xzendercage/nisa">
-    <img src="https://img.shields.io/github/repo-size/xzendercage/nisa?color=purple&label=Repo%20Boyutu&style=plastic">
-
-  </a>
-  <a href="httsp://github.com/xzendercage/nisa">
-    <img src="https://img.shields.io/codefactor/grade/github/xzendercage/nisa?color=purple&label=Kod%20Kalitesi&style=plastic">
-
-  </a>
-  <a href="https://github.com/xzendercage/nisa/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/xzendercage/nisa?color=purple&label=Lisans&style=plastic">
-
-  </a>
-  <a href="https://github.com/xzendercage/nisa">
-    <img src="https://img.shields.io/github/languages/top/xzendercage/nisa?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/xzendercage">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
-
-  </a>
-  <a href="https://t.me/xzendercage">
-    <img src="https://img.shields.io/badge/Telegram-nisa%20Remaster-purple&style=plastic">
-
   </a>
 </p>
 

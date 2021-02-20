@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'alive', fromMe: true, desc: Lang.ALIVE_DESC}, (async
         await message.client.sendMessage(message.jid,'```God bless NISA. The First Ai Service!```\n\n*Version:* ```'+Config.VERSION+'```\n*Branch:* ```'+Config.BRANCH+'```\n*Telegram Group:* https://t.me/xzendercage\n*Telegram Channel:* https://t.me/xzendercagebot' , MessageType.text);
     }
     else {
-        await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by WhatsAsena*', MessageType.text);
+        await message.client.sendMessage(message.jid,Config.ALIVEMSG + '\n*Powered by NISA Ai*', MessageType.text);
     }
 }));
 

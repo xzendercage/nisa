@@ -1,6 +1,6 @@
 FROM fusuf/whatsasena:latest
 
-RUN git clone https://github.com/xzendercage /root/nisa
+RUN git clone https://github.com/xzendercage/nisa /root/nisa
 WORKDIR /root/nisa/
 ENV TZ=Asia/Kolkata
 RUN npm install deepai

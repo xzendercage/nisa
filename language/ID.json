@@ -67,9 +67,9 @@
             "GIVE_ME_CODE": "*Beri aku kode!*"
         },
         "heroku": {
-            "RESTART_DESC": "Mulai ulang WhatsAsena",
+            "RESTART_DESC": "Mulai ulang NISA Ai",
             "RESTART_MSG": "```memulai ulang harap tunggu...```",
-            "SHUTDOWN_DESC": "Matikan WhatsAsena",
+            "SHUTDOWN_DESC": "Matikan NISA Ai",
             "SHUTDOWN_MSG": "```mematikan ⛔```",
             "DYNO_DESC": "Periksa penggunaan heroku dyno",
             "DYNO_TOTAL": "```Total Kuota```",

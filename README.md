@@ -9,7 +9,7 @@
 ```
 ## Native indian Security Assistant For Whatsapp
 
-NISA - Asena Userbot is Open Source software open to development. 
+NISA - Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 

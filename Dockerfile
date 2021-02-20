@@ -1,4 +1,4 @@
-FROM fusuf/whatsasena:latest
+FROM xzendercage/nisa:latest
 
 RUN git clone https://github.com/xzendercage/nisa /root/nisa
 WORKDIR /root/nisa/

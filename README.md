@@ -1,4 +1,4 @@
-## Thanks for Everything 
+## About NISA Ai
 ### I always remember you..
 
 - [Xzender Cage](https://github.com/xzendercage)
@@ -126,8 +126,8 @@ Here Are All Commands With Description
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+Absolutely, NISA executives do not accept responsibility.
+By establishing the AI, you are deemed to have accepted these responsibilities.
 ```
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.

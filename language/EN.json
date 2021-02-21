@@ -56,8 +56,8 @@
             "REASON": "Reason",
             "LAST_SEEN": "Last Seen",
             "IM_NOT_AFK": "```I am not AFK anymore!```",
-            "AFK_TEXT": "```Bip bop! This is a bot. My owner is not here at the moment.```",
-            "AFK_TEXT_NOMD": "Bip bop! This is a bot.",
+            "AFK_TEXT": "```Hey You Stop Here ! This is NISA Ai Security. My owner is not here at the moment.```",
+            "AFK_TEXT_NOMD": "Bip bop! This is NISA Ai.",
             "HOUR": "hour",
             "MINUTE": "minute",
             "SECOND": "second"

@@ -5,8 +5,9 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 ![forthebadge made-with-swag](https://forthebadge.com/images/badges/built-with-swag.svg)
-![forthebadge work-in-my-machine](https://forthebadge.com/images/badges/works-on-my-machine.svg)
-
+![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)
+[![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
   </a>
 </p>
 

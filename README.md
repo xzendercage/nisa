@@ -3,7 +3,9 @@
 
 - [Xzender Cage](https://github.com/xzendercage)
 
-[forthebadge made-with-javascript](https://forthebadge.com/images/badges/made-with-javascript.svg)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
+![forthebadge made-with-swag](https://forthebadge.com/images/badges/built-with-swag.svg)
+![forthebadge work-in-my-machine](https://forthebadge.com/images/badges/works-on-my-machine.svg)
 
   </a>
 </p>

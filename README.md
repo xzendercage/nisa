@@ -3,6 +3,8 @@
 
 - [Xzender Cage](https://github.com/xzendercage)
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)]
+
   </a>
 </p>
 

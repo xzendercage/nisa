@@ -8,6 +8,9 @@
 ![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)
 [![forthebadge](https://forthebadge.com/images/badges/ages-12.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+
+<p align="center">
+<img src="https://telegra.ph/file/cbf7172a40894d1aa18b8.jpg" alt="NISA AI">
   </a>
 </p>
 

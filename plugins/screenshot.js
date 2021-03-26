@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'ss ?(.*)', fromMe: true, desc: Lang.SS_DESC}, (async
 
     if (match[1] === '') return await message.sendMessage(Lang.LİNK);
 
-    var webimage = await axios.get(`https://screenshotapi.net/api/v1/screenshot?url=${match[1]}&output=image&full_page=true`, { responseType: 'arraybuffer' })
+    var webimage = await axios.get(`https://nurutomo.herokuapp.com/api/ssweb?delay=1000&url=${match[1]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by nisa'})
 
